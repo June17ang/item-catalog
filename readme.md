@@ -1,7 +1,11 @@
 ## Udacity Full Stack Wed Developer Nanodegree - Project 2 [Item Catalog]
 #### Project Description
+Developing an application that provides a list of items within a variety of categories, as well as provide a user registration and authentication system.
 
 #### Prerequisites
+Python 2.7+
+Vagrant
+VirtualBox
 
 #### How to Run
 - Install <a href="https://www.vagrantup.com/downloads.html" tips="click redirect to installation page">Vagrant</a>
